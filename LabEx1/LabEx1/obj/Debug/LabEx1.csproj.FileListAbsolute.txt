@@ -1,0 +1,20 @@
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\bin\Debug\LabEx1.exe.config
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\bin\Debug\LabEx1.exe
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\bin\Debug\LabEx1.pdb
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.Currency_Converter.resources
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.Properties.Resources.resources
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.exe
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\LabEx1\LabEx1\obj\Debug\LabEx1.pdb
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\bin\Debug\LabEx1.exe.config
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\bin\Debug\LabEx1.exe
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\bin\Debug\LabEx1.pdb
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.csprojAssemblyReference.cache
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.Currency_Converter.resources
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.Properties.Resources.resources
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.csproj.GenerateResource.cache
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.csproj.CoreCompileInputs.cache
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.exe
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Assignments\Inclass Lab\LabEx1\LabEx1\obj\Debug\LabEx1.pdb
